@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBigCursor", "TestBigCursor.csproj", "{5A714FE8-6BCA-4442-821C-4374592415BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A714FE8-6BCA-4442-821C-4374592415BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A714FE8-6BCA-4442-821C-4374592415BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A714FE8-6BCA-4442-821C-4374592415BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A714FE8-6BCA-4442-821C-4374592415BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AE0068-295A-47C3-8B03-3737B6C0009C}
+	EndGlobalSection
+EndGlobal
